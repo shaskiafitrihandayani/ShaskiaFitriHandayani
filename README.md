@@ -139,7 +139,7 @@ src="https://img.shields.io/github/followers/shaskiafitrihandayani?logo=github&s
     
 <h2 align="center"><img src="Assets/Follow.gif" alt="Robot" width="60"/> Connect With Me <img src="Assets/Follow.gif" alt="Robot" width="60"/></h2>
   
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shaskiafitrihandayani)
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shaskia-fitri-handayani-9536502a8/?isSelfProfile=true)
      [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/shskiaar)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:shaskiafitrihandayani@gmail.com)
  
