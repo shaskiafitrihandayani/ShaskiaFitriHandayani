@@ -45,7 +45,7 @@
 
 
 
-I'm **Nikitha** — a final-year Computer Science student at Dayananda Sagar University, Bangalore. I build full-stack web applications, machine-learning systems, and distributed backends, and I've worked on an applied-ML research project on Parkinson's symptom detection from tremor and tapping signals. Currently open to internships and interesting problems.
+I'm **Shaskia** — a final-year Computer Science student at Dayananda Sagar University, Bangalore. I build full-stack web applications, machine-learning systems, and distributed backends, and I've worked on an applied-ML research project on Parkinson's symptom detection from tremor and tapping signals. Currently open to internships and interesting problems.
 
 
 
