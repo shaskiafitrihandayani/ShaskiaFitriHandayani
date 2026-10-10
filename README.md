@@ -1,4 +1,4 @@
-<img src="Assets/header.png">
+<img src="Assets/header.gif">
 <body>
 <h1 align="center">Hi 👋 I'm Shaskia Fitri Handayani</h1>
 
