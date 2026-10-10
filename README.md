@@ -114,14 +114,6 @@
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-    
-<!--Contributuins Graph--->
-<div>
-    <a href="https://github.com/shaskiafitrihandayani">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaskiafitrihandayani&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Sairaj's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
-    </a>
-</div>
-
 
 
 <div align="left">
@@ -131,7 +123,6 @@
 
 <h2 align="center"></h2>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=shaskiafitrihandayani&style=for-the-badge&color=00bfbf&border_radius=20" alt="Profile Views"/>
     <p align="center">
   <a href="https://github.com/shaskiafitrihandayani?tab=repositories&sort=stargazers">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/shaskiafitrihandayani?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" >
