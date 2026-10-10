@@ -1,4 +1,6 @@
-<img src="Assets/header.gif">
+<p align="center">
+  <img src="Assets/header.gif" alt="Header" width="100%">
+</p>
 <body>
 <h1 align="center">Hi 👋 I'm Shaskia Fitri Handayani</h1>
 
