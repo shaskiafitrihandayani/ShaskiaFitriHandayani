@@ -11,7 +11,7 @@
 
 ###  About Me  <img  src="Assets/stats.gif" height="30"/>
 
-<p>Halo! Aku Shaskia Fitri Handayani dari Indonesia. Aku mahasiswa Teknik Informatika angkatan 2025 di Universitas Paramadina. Saat ini aku sedang belajar berbagai bahasa pemrograman dan membangun dasar-dasar pengembangan web. Aku suka mencoba hal baru, belajar dari proyek kecil, dan terus berkembang supaya bisa menjadi developer yang andal.</p>
+<p>Hello! I'm Shaskia Fitri Handayani from Indonesia. I'm a 2025 Informatics Engineering student at Universitas Paramadina. I'm currently learning several programming languages and building a solid foundation in web development. I love trying new things, learning through small projects, and constantly growing so I can become a reliable developer.</p>
 
 
 <div align="left">
