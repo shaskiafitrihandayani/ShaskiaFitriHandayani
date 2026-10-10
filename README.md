@@ -1,4 +1,4 @@
-<img src="Assests/header.png">
+<img src="Assets/header.png">
 <body>
 <h1 align="center">Hi 👋 I'm Shaskia Fitri Handayani</h1>
 
@@ -7,7 +7,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-###  About Me  <img  src="Assests/stats.gif" height="30"/>
+###  About Me  <img  src="Assets/stats.gif" height="30"/>
 
 <p>Halo! Aku Shaskia Fitri Handayani dari Indonesia. Aku mahasiswa Teknik Informatika angkatan 2025 di Universitas Paramadina. Saat ini aku sedang belajar berbagai bahasa pemrograman dan membangun dasar-dasar pengembangan web. Aku suka mencoba hal baru, belajar dari proyek kecil, dan terus berkembang supaya bisa menjadi developer yang andal.</p>
 
@@ -18,7 +18,7 @@
 </div>
 
 <!--Current Status--->
-### Working On <img  src="Assests/activity.gif" height="30"/> 
+### Working On <img  src="Assets/activity.gif" height="30"/> 
     
 - Belajar dan memperdalam HTML, CSS, JavaScript, dan Python
 - [Project 💡](https://github.com/shaskiafitrihandayani/website-portofolio-shaskia) : Website portofolio pribadi untuk tugas Pemrograman Web
@@ -139,17 +139,17 @@
 src="https://img.shields.io/github/followers/shaskiafitrihandayani?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
 </div>
 
-<!---snake gif Available in Assests-->
- <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
+<!---snake gif Available in Assets-->
+ <img width="1000" src="Assets/github-snake.svg" alt="snake"/>
 <div align="center">
     
-<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="60"/> Connect With Me <img src="Assests/Follow.gif" alt="Robot" width="60"/></h2>
+<h2 align="center"><img src="Assets/Follow.gif" alt="Robot" width="60"/> Connect With Me <img src="Assets/Follow.gif" alt="Robot" width="60"/></h2>
   
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shaskia-fitri-handayani)
      [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/shskiaar)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:shaskiafitrihandayani@gmail.com)
  
-<img src="Assests/divider.png">
+<img src="Assets/divider.png">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 </body>
