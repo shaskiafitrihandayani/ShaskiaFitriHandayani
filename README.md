@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/header.gif" alt="Header" width="40%">
+  <img src="Assets/header.gif" alt="Header" width="80%">
 </p>
 <body>
 <h1 align="center">Hi 👋 I'm Shaskia Fitri Handayani</h1>
