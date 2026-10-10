@@ -1,6 +1,6 @@
 <img src="Assests/header.png">
 <body>
-<h1 align="center">Hi 👋, I'm Shaskia Fitri Handayani</h1>
+<h1 align="center">Hi 👋 I'm Shaskia Fitri Handayani</h1>
 
 <div align="left">
     <div align="left">
