@@ -5,8 +5,9 @@
 <h1 align="center">Hi 👋 I'm Shaskia Fitri Handayani</h1>
 
 <div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <p align="center">
+    <img src="https://media.giphy.com/media/UTHHcWHsgf9wAWmD5C/giphy.gif" alt="GIF" width="100%" height="20">
+  </p>
 </div>
 
 ###  About Me  <img  src="Assets/stats.gif" height="30"/>
@@ -15,8 +16,9 @@
 
 
 <div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <p align="center">
+    <img src="https://media.giphy.com/media/UTHHcWHsgf9wAWmD5C/giphy.gif" alt="GIF" width="100%" height="20">
+  </p>
 </div>
 
 <!--Current Status--->
@@ -26,8 +28,9 @@
 - [Project 💡](https://github.com/shaskiafitrihandayani/website-portofolio-shaskia) : Website portofolio pribadi untuk tugas Pemrograman Web
 
 <div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <p align="center">
+    <img src="https://media.giphy.com/media/UTHHcWHsgf9wAWmD5C/giphy.gif" alt="GIF" width="100%" height="20">
+  </p>
 </div>
   
     
@@ -90,7 +93,9 @@
 
 <div align="left">
     <div align="left">
-        <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+      <p align="center">
+        <img src="https://media.giphy.com/media/UTHHcWHsgf9wAWmD5C/giphy.gif" alt="GIF" width="100%" height="20">
+      </p>
     </div>
 </div>
 
@@ -113,15 +118,11 @@
 </div>
 
 <div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <p align="center">
+    <img src="https://media.giphy.com/media/UTHHcWHsgf9wAWmD5C/giphy.gif" alt="GIF" width="100%" height="20">
+  </p>
 </div>
 
-
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
 <h2 align="center"></h2>
 <div align="center">
@@ -138,7 +139,7 @@ src="https://img.shields.io/github/followers/shaskiafitrihandayani?logo=github&s
     
 <h2 align="center"><img src="Assets/Follow.gif" alt="Robot" width="60"/> Connect With Me <img src="Assets/Follow.gif" alt="Robot" width="60"/></h2>
   
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shaskia-fitri-handayani)
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shaskiafitrihandayani)
      [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/shskiaar)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:shaskiafitrihandayani@gmail.com)
  
